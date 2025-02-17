@@ -1,6 +1,6 @@
 import './Profile.css'
 import resume from '../../assets/Currículo.pdf'
-import profile_img from '../../assets/Foto.jpg'
+import profile_img from '../../assets/foto.jpg'
 
 const Profile = () => {
   return (
