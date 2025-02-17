@@ -1,0 +1,53 @@
+.about-me {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+
+    & img {
+        height: 15rem;
+        border-radius: 40px;
+        margin-top: 50px;
+    }
+
+    & h1 {
+        text-align: center;
+        width: 70%;
+        font-size: 3rem;
+        font-weight: 600;
+
+        & span {
+            background: linear-gradient(270deg, #FFB200 0.36%, #ff0055 102.06%);
+            -webkit-background-clip: text;;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+    & p {
+        width: 70%;
+        text-align: center;
+        font-size: 1.5rem;
+        line-height: 40px;
+        
+        & span {
+            background: linear-gradient(270deg, #FFB200 0.36%, #FF0055 102.06%);
+            -webkit-background-clip: text;;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+
+    & a {
+        text-decoration: none;
+        color: #FFF;
+        font-size: 1.5rem;
+        font-weight: 500;
+        margin-bottom: 50px;
+        padding: 15px 75px;
+        border-radius: 50px;
+        border: 2px solid ;
+        cursor: pointer;
+    }
+
+    & a:hover {
+        border-color: #FFB200;
+    }
+}
