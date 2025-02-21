@@ -4,7 +4,8 @@ Este é o repositório do meu portfólio, onde apresento alguns dos meus projeto
 
 ## 🚧 Em Construção
 
-Este portfólio ainda está em desenvolvimento! Algumas funcionalidades e projetos podem não estar finalizados. Estou constantemente aprimorando e adicionando novas seções. 🚀
+Este portfólio ainda está em desenvolvimento! Algumas funcionalidades, responsividade e projetos podem não estar finalizados. 
+Estou constantemente atualizando até adicionar todas as funcionalidades necessárias.
 
 ## 🚀 Tecnologias Utilizadas
 Este portfólio foi desenvolvido com as seguintes tecnologias:
