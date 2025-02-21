@@ -1,4 +1,3 @@
-import React from "react";
 import "./Works.css";
 import projects_data from "../../assets/projects_data";
 
