@@ -13,7 +13,7 @@ const About = () => {
 				<div className="about-right">
 					<div className="about-p">
 						<p>
-							Estou me dedicando a me tornar um Desenvolvedor Front-End,
+							Estou dedicado a me tornar um Desenvolvedor Front-End,
 							mergulhando de cabeça em ferramentas como React, TypeScript e
 							Next.js para trazer ideias à vida e transformar linhas de código
 							em experiências incríveis.

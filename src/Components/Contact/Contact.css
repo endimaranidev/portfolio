@@ -1,0 +1,113 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    margin: 80px 170px;
+}
+
+.contact-title {
+    position: relative;
+}
+
+.contact-title h1 {
+    padding: 0px 30px;
+    font-size: 80px;
+    font-weight: 600;
+}
+
+.contact-section {
+    display: flex;
+    gap: 80px;
+}
+
+.contact-section__left {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.contact-section__left h1 {
+    font-size: 80px;
+    font-weight: 700;
+    background: linear-gradient(267deg,  #FFB200 0.36%, #ff0055 102.06%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.contact-section__left p {
+    max-width: 550px;
+    color: #D8D8D8;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.contact-section__left__details {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    color: #D8D8D8;
+    font-size: 22px;
+}
+
+.contact-section__left_details__content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.contact-section__right {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+}
+
+.contact-section__right label {
+    color: #D8D8D8;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.contact-section__right input {
+    border: none;
+    width: 500px;
+    height: 78px;
+    padding-left: 20px;
+    border-radius: 4px;
+    background: #32323c;
+    color: #A0A0A0;
+    font-family: Outfit;
+    font-size: 20px;
+}
+
+.contact-section__right textarea {
+    width: 500px;
+    border: none;
+    padding: 25px;
+    border-radius: 4px;
+    background-color: #32323c;
+    color: #A0A0A0;
+    font-family: Outfit;
+    font-size: 20px;
+}
+
+.contact-section__right__submit {
+    border: none;
+    color: white;
+    border-radius: 50px;
+    background: linear-gradient(267deg,  #FFB200 0.36%, #ff0055 102.06%);
+    font-size: 18px;
+    padding: 15px 60px;
+    margin-bottom: 50px;
+    cursor: pointer;
+    transform: 0.3s;
+}
+
+.contact-section__right__submit:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+    background: linear-gradient(267deg,  #ffd471 0.36%, #ff679a 102.06%);
+}
