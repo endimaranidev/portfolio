@@ -9,7 +9,7 @@ Este portfólio ainda está em desenvolvimento! Algumas funcionalidades e projet
 ## 🚀 Tecnologias Utilizadas
 Este portfólio foi desenvolvido com as seguintes tecnologias:
 
-- **Front-end:** React 19, Next.js 15.1.5, TypeScript
+- **Front-end:** ReactJS, Next.js e TypeScript
 - **Versionamento:** Git, GitHub
 - **Deploy:** Vercel
 
